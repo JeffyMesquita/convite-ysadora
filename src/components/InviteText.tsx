@@ -24,7 +24,7 @@ export default function InviteText() {
         whileHover={{ scale: 1.05 }}
         whileTap={{ scale: 0.95 }}
         target="_blank"
-        href="https://wa.me/5585991971306?text=Olá%2C%20Ysadora!%20Eu%20confirmo%20minha%20presença%20na%20sua%20festa%20de%20aniversário!"
+        href="https://wa.me/5517991971306?text=Olá%2C%20Ysadora!%20Eu%20confirmo%20minha%20presença%20na%20sua%20festa%20de%20aniversário!"
       >
         Confirmar Presença
       </motion.a>
