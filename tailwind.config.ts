@@ -8,6 +8,10 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        serif: ["Permanent Marker", "serif"],
+      },
+
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
